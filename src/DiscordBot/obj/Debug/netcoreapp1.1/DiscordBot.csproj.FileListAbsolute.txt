@@ -1,0 +1,22 @@
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.deps.json
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.runtimeconfig.json
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.runtimeconfig.dev.json
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.dll
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.pdb
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.AssemblyInfo.cs
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.dll
+C:\Users\Priyansh\Desktop\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.pdb
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.deps.json
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.runtimeconfig.json
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.runtimeconfig.dev.json
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.dll
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.pdb
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.AssemblyInfo.cs
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.dll
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.pdb
+C:\Users\Priyansh\Documents\Programming\Discord Bots\Blyat Bot\DiscordBotBase-csharp\src\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.csprojAssemblyReference.cache
